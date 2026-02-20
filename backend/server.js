@@ -58,6 +58,6 @@ res.json({message:"Threat Eliminated"});
 
 app.listen(5000,()=>{
 
-console.log("🦇 Gotham Server Running");
+console.log("🦇 Gotham Server Running in port 5000");
 
 });
