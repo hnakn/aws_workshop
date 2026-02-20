@@ -3,7 +3,7 @@ import axios from "axios";
 
 function App(){
 
-const API="https://corsproxy.io/?http://13.203.226.163:5000";
+const API=" https://cors-everywhere.herokuapp.com/http://13.203.226.163:5000";
 
 const [name,setName]=useState("");
 
