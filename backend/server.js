@@ -8,6 +8,11 @@ app.use(express.json());
 
 let criminals = [];
 
+app.get("/",(req,res)=>{
+
+res.send("🦇 BATCOM Backend Online — Gotham Protected");
+
+});
 
 // Get criminals
 
