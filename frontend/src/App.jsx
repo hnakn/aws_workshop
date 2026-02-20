@@ -3,7 +3,7 @@ import axios from "axios";
 
 function App(){
 
-const API="http://localhost:5000";
+const API="http://13.203.226.163:5000";
 
 const [name,setName]=useState("");
 
