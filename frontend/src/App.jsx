@@ -3,7 +3,7 @@ import axios from "axios";
 
 function App(){
 
-const API="http://localhost:5000";
+const API="https://cool-chancellor-letting-shadows.trycloudflare.com:5000";
 
 const [name,setName]=useState("");
 
