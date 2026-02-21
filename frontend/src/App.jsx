@@ -3,7 +3,7 @@ import axios from "axios";
 
 function App(){
 
-const API="https://medication-dsc-urban-leeds.trycloudflare.com";
+const API="http://localhost:5000";
 
 const [name,setName]=useState("");
 
